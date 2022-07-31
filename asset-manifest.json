@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://towa0518.github.io/csb-4guryk/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://towa0518.github.io/csb-4guryk/static/js/main.1173cab2.chunk.js",
+    "main.js.map": "https://towa0518.github.io/csb-4guryk/static/js/main.1173cab2.chunk.js.map",
+    "runtime-main.js": "https://towa0518.github.io/csb-4guryk/static/js/runtime-main.f2acfe87.js",
+    "runtime-main.js.map": "https://towa0518.github.io/csb-4guryk/static/js/runtime-main.f2acfe87.js.map",
+    "static/js/2.e89c51fb.chunk.js": "https://towa0518.github.io/csb-4guryk/static/js/2.e89c51fb.chunk.js",
+    "static/js/2.e89c51fb.chunk.js.map": "https://towa0518.github.io/csb-4guryk/static/js/2.e89c51fb.chunk.js.map",
+    "index.html": "https://towa0518.github.io/csb-4guryk/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://towa0518.github.io/csb-4guryk/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.e89c51fb.chunk.js.LICENSE.txt": "https://towa0518.github.io/csb-4guryk/static/js/2.e89c51fb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f2acfe87.js",
+    "static/js/2.e89c51fb.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.1173cab2.chunk.js"
+  ]
+}
